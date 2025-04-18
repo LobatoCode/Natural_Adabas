@@ -1,0 +1,20 @@
+* >Natural Source Header 000000
+* :Mode S
+* :CP
+* <Natural Source Header
+DEFINE DATA LOCAL
+1 STOP-LOOP (L) INIT <FALSE>
+END-DEFINE
+
+REPEAT
+    WRITE 'ESTOU NO LOOP'
+    MOVE TRUE TO STOP-LOOP
+    
+    IF STOP-LOOP = TRUE
+        ESCAPE BOTTOM
+    END-IF
+END-REPEAT
+
+WRITE 'SAIU DO LOOP'
+
+END
