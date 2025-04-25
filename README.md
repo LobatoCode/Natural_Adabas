@@ -11,12 +11,12 @@
 [NATADA08](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA08.NSP)<br>
 [NATADA09](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA09.NSP)<br>
 [NATADA10](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA10.NSP)<br>
-[NATADA11](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA11.NSP)<br>
-[NATADA12](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA12.NSP)<br>
-[NATADA13](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA13.NSP)<br>
-[NATADA14](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA14.NSP)<br>
-[NATADA15](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA15.NSP)<br>
-[NATADA16](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA16.NSP)<br>
-[NATADA17](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA17.NSP)<br>
-[NATADA18](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA18.NSP)<br>
-[NATADA19](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA19.NSP)
+[NATADA11 - REPEAT WHILE](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA11.NSP)<br>
+[NATADA12 - REPEAT UNTIL](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA12.NSP)<br>
+[NATADA13 - REPEAT COM IF](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA13.NSP)<br>
+[NATADA14 - READ](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA14.NSP)<br>
+[NATADA15 - READ](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA15.NSP)<br>
+[NATADA16 - READ](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA16.NSP)<br>
+[NATADA17 - FIND](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA17.NSP)<br>
+[NATADA18 - ISN E GET](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA18.NSP)<br>
+[NATADA19 - HISTOGRAM](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA19.NSP)
