@@ -19,4 +19,5 @@
 [NATADA16 - READ](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA16.NSP)<br>
 [NATADA17 - FIND](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA17.NSP)<br>
 [NATADA18 - ISN E GET](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA18.NSP)<br>
-[NATADA19 - HISTOGRAM](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA19.NSP)
+[NATADA19 - HISTOGRAM](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA19.NSP)<br>
+[NATADA20 - STORE](https://github.com/LobatoCode/Natural_Adabas/blob/main/NATADA20.NSP)
