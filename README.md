@@ -26,3 +26,7 @@
 
 ## Apostilas
 
+[Community Edition Guide](https://github.com/LobatoCode/Natural_Adabas/blob/main/AN%2BCommunity%2BEdition%2BGuide.pdf)<br>
+[Consist](https://github.com/LobatoCode/Natural_Adabas/blob/main/Curso_Natural_Consist.pdf)<br>
+[Natural Adabas Avancado Luciano Perdigao](https://github.com/LobatoCode/Natural_Adabas/blob/main/Natural_Avancado_Luciano_Perdigao.pdf)<br>
+[Natural Adabas Basico Luciano Perdigao](https://github.com/LobatoCode/Natural_Adabas/blob/main/Natural_Basico_Luciano_Perdigao.pdf)
